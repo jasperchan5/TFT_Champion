@@ -1,0 +1,16 @@
+#Header .title{
+    text-align: center;
+    font-size: 48px;
+    margin: 24px 0px 72px 0px;
+}
+
+#Body .champion_cell{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#Body .all{
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 700;
+}
